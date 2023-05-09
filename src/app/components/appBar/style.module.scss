@@ -1,0 +1,22 @@
+@import '../../../styles/variables';
+
+.linkMenuItem{
+    display: inline-block;
+    position: relative;
+    padding: 0 0.5rem;
+    height: 4rem;
+    line-height: 4rem;
+    color: $text-color;
+}
+
+.SubLinkMenuItem{
+    color: $cta-color;
+}
+
+.toolbar{
+    background-color: $cta-color;
+}
+
+.corBranca{
+    color: $text-color;
+}
